@@ -1,6 +1,6 @@
 # Refinando-um-Projeto-Conceitual-de-Banco-de-Dados-E-COMMERCE
 
-Descrição do Projeto
+Descrição do Projeto:
 Este projeto apresenta um modelo conceitual de banco de dados para um sistema de e-commerce, com foco no gerenciamento de clientes, pedidos, pagamentos e entregas. O objetivo é representar de forma clara como os dados se relacionam dentro de um fluxo de compra online.
 
 Entidades principais:
